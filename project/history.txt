@@ -1,0 +1,179 @@
+  182  cd home
+  183  ls
+  184  cd administrator
+  185  ls
+  186  cd Desktop
+  187  ls
+  188  rm -r
+  189  rm -r*
+  190  rm -r *
+  191  ls
+  192  touch file.txt
+  193  ls
+  194  cat > file.txt
+  195  ls
+  196  su abishek
+  197  ll file.txt
+  198  chmod o+w file.txt
+  199  su abishek
+  200  sudo userdel abishek
+  201  cat /etc/passwd
+  202  sudo userdel arun
+  203  sudo userdel vishnu
+  204  sudo userdel dina
+  205  cat /etc/passwd
+  206  sudo userdel srini
+  207  cat /etc/passwd
+  208  clear
+  209  touch file.txt
+  210  cat > file.txt
+  211  clear
+  212  nano file.txt
+  213  nano saran.sh
+  214  ./saran.sh
+  215  chmod +x saran.sh
+  216  ./saran.sh
+  217  nano saran.sh
+  218  ./saran.sh
+  219  nano saran.sh
+  220  ./saran.sh
+  221  nano saran.sh
+  222  ./saran.sh
+  223  nano saran.sh
+  224  ./saran.sh
+  225  nano saran.sh
+  226  ./saran.sh
+  227  nano saran.sh
+  228  ./saran.sh
+  229  nano saran.sh
+  230  ./saran.sh
+  231  nano saran.sh
+  232  ./saran.sh
+  233  nano saran.sh
+  234  ./saran.sh
+  235  nano saran.sh
+  236  ./saran.sh
+  237  nano saran.sh
+  238  ./saran.sh
+  239  nano saran.sh
+  240  ./saran.sh
+  241  nano saran.sh
+  242  ./saran.sh
+  243  nano saran.sh
+  244  clear 
+  245  ps
+  246  top 
+  247  q
+  248  clear 
+  249  nano saran.sh
+  250  ./saran.sh
+  251  nano saran.sh
+  252  ./saran.sh
+  253  7
+  254  nano saran.sh
+  255  ./saran.sh
+  256  history 
+  257  nano saran.sh
+  258  sudo apt update
+  259  sudo apt install git
+  260  git--version
+  261  git --version
+  262  cd Desktop
+  263  mkdir cloud 
+  264  ls
+  265  git --version
+  266  cd cloud
+  267  git init
+  268  git config --list
+  269  git config --global user.name "vishnuabishek"
+  270  git config --list
+  271  git config --global init.defaultBranch main
+  272  git config --list
+  273  git config --global user.email "gmail"
+  274  git config --global user.email "24bsit262vishnuabishek@skacas.ac.in"
+  275  git config --list
+  276  git config --global 
+  277  git config --list
+  278  git config --global core.autocrlf input
+  279  cd ..
+  280  clear
+  281  git config --list
+  282  git clone https://github.com/vishnuabishek2006/democloud.git
+  283  ls
+  284  cd democloud
+  285  touch file.txt
+  286  ls
+  287  git add file.txt
+  288  cat > file.txt
+  289  git commit -m "first commit"
+  290  git add file
+  291  git add file.txt
+  292  git status
+  293  git commit -m "second commit"
+  294  git status
+  295  git push origin main
+  296  git remote -v
+  297  git remote set-url origin "https://tokenid@gi
+  298  git remote set-url origin "https://ghp_rebRA7s3mk7z5AJx1E3iWZnucs7iLI2q8vQu@github.com/vishnuabishek/democloud"
+  299  git remote -v
+  300  git status
+  301  git push origin main
+  302  cd Desktop
+  303  ls
+  304  cd democloud
+  305  git commit -m 
+  306  git commit -m "commit
+  307  git commit -m "commit"
+  308  git push origin main
+  309  cd ..
+  310  mkdir git
+  311  cd /
+  312  clear
+  313  cd /
+  314  ls
+  315  cd home
+  316  ls
+  317  cd administrator
+  318  ls
+  319  cd Desktop
+  320  cd democloud
+  321  git status
+  322  git push origin main
+  323  git remove -v
+  324  git remote -v
+  325  git push origin
+  326  git push origin main
+  327  clear
+  328  mkdir file.txt
+  329  cd file1.txt
+  330  mkdir dir1
+  331  cd dir
+  332  cd dir1
+  333  git init
+  334  clear
+  335  ls
+  336  cd administrator
+  337  clear
+  338  mkdir dir1
+  339  cd ..
+  340  mkdir dir2
+  341  ls
+  342  cd dir2
+  343  cd democloud
+  344  git clone
+  345  iyeoiouh
+  346  clear
+  347  history
+  348  clear
+  349  cd /
+  350  clear
+  351  history
+  352  vim.txt
+  353  cd Desktop
+  354  cd 
+  355  ls
+  356  cd Desktop
+  357  ls
+  358  touch history.txt
+  359  history
+
